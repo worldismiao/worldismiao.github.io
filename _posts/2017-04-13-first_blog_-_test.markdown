@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "First Blog - Test"
-date:   2017-04-13 20:02:13 +0000
+date:   2017-04-13 16:02:14 -0400
 ---
 
 Do I really get this awesome domain with my awesome name? 
