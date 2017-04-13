@@ -1,10 +1,10 @@
 # Site settings
-title: Building a Gem to check stock price
+title: Coding
 header-img: img/home-bg.png
 email: wangfeiranpku@163.com
 copyright_name: worldismiao
 description: > # this means to ignore newlines until "baseurl:"
-  my first independent project on Ruby
+  What is it you plan to do with your one wild and precious life?
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  worldismiao
