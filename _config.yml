@@ -1,0 +1,21 @@
+# Site settings
+title: Building a Gem to check stock price
+header-img: img/home-bg.png
+email: wangfeiranpku@163.com
+copyright_name: worldismiao
+description: > # this means to ignore newlines until "baseurl:"
+  my first independent project on Ruby
+baseurl: "" # the subpath of your site, e.g. /blog
+twitter_username: 
+github_username:  worldismiao
+learn_profile: worldismiao
+email_username: wangfeiranpku@163.com
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]
